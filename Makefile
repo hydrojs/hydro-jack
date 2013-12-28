@@ -115,7 +115,7 @@ clean-cov:
 # CI
 #
 
-ci: test-node test-phantomjs
+ci: test-node test-phantomjs coveralls
 
 #
 # Send coverage to coveralls
