@@ -1,6 +1,6 @@
 {
   "name": "hydro-jack",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Jack.js integration for hydro",
   "keywords": [
     "hydroplugin",

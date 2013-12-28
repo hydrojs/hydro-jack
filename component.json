@@ -2,7 +2,7 @@
   "name": "hydro-jack",
   "repo": "hydrojs/hydro-jack",
   "description": "Jack.js integration for hydro",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "index.js",
   "scripts": [
