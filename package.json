@@ -2,6 +2,11 @@
   "name": "hydro-jack",
   "version": "0.0.0",
   "description": "Jack.js integration for hydro",
+  "keywords": [
+    "hydroplugin",
+    "hydro",
+    "jack"
+  ],
   "main": "./index.js",
   "homepage": "https://github.com/hydrojs/hydro-jack",
   "scripts": {
