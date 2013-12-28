@@ -1,0 +1,37 @@
+{
+  "name": "hydro-jack",
+  "version": "0.0.0",
+  "description": "Jack.js integration for hydro",
+  "main": "./index.js",
+  "homepage": "https://github.com/hydrojs/hydro-jack",
+  "scripts": {
+    "test": "hydro",
+    "coverage": "istanbul cover _hydro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hydrojs/hydro-jack"
+  },
+  "peerDependencies": {
+    "hydro": "0.x"
+  },
+  "devDependencies": {
+    "jack": "git://github.com/jackjs/jack.git#master",
+    "coveralls": "~2.3.0",
+    "istanbul": "~0.1.46",
+    "component": "~0.18.0",
+    "hydro": "*",
+    "hydro-simple": "*",
+    "karma": "~0.10.8",
+    "karma-chrome-launcher": "~0.1.1",
+    "karma-firefox-launcher": "~0.1.2",
+    "karma-phantomjs-launcher": "~0.1.1",
+    "karma-safari-launcher": "~0.1.1",
+    "karma-hydro": "*"
+  },
+  "dependencies": {
+    "loa": "0.0.2"
+  },
+  "author": "Veselin Todorov <hi@vesln.com>",
+  "license": "MIT"
+}
