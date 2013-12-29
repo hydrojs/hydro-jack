@@ -50,7 +50,9 @@ build: node_modules components
 
 test: test-node test-browser
 
+#
 # Run the Node.js tests
+#
 
 test-node: node_modules
 	@$(TEST_EXEC)
